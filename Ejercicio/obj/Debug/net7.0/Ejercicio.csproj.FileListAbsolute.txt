@@ -1,0 +1,15 @@
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\bin\Debug\net7.0\Ejercicio.exe
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\bin\Debug\net7.0\Ejercicio.deps.json
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\bin\Debug\net7.0\Ejercicio.runtimeconfig.json
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\bin\Debug\net7.0\Ejercicio.dll
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\bin\Debug\net7.0\Ejercicio.pdb
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\Ejercicio.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\Ejercicio.dll
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\refint\Ejercicio.dll
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\Ejercicio.pdb
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\Ejercicio.genruntimeconfig.cache
+C:\Users\marlo\OneDrive\Escritorio\Ejercicio\obj\Debug\net7.0\ref\Ejercicio.dll
